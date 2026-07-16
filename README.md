@@ -20,7 +20,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 - Matplotlib
 
 ## Dataset
-Titanic Dataset (Kaggle)
+The dataset used in this project is the Titanic dataset from the Kaggle Titanic Machine Learning Competition.
 
 ## Project Structure
 ```
@@ -54,5 +54,6 @@ python app.py
 
 ## Author
 
-Nancy.J
-         [B.Sc. Information Technology]
+**Nancy**  
+B.Sc. Information Technology Student  
+Sri Ramakrishna College of Arts and Science for Women

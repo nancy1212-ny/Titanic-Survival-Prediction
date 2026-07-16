@@ -54,5 +54,5 @@ python app.py
 
 ## Author
 
-Nancy
-B.Sc. Information Technology
+Nancy.J
+   B.Sc. Information Technology
